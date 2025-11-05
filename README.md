@@ -73,3 +73,5 @@ Instálalo y abre Calculadora de Gastos Personales.
 
 Juan David Baeza Navarro
 📧 jbaeza06@uan.edu.co
+Johan Andres Torres Rincon 
+📧 jotorres47@uan.edu.co
